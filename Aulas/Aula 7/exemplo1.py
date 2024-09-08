@@ -17,31 +17,6 @@ print('O resto da divisão é: {}'.format(modulo))
 print('A potên\ncia é: {}'.format(expon))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''nome = input('Qual é o seu nome? ')
 (O que está dentro das chaves vai preencher com o que você colocar dependendo do numero que colocar)
 print('Prazer em te conhecer {:-^20}!'.format(nome))'''
